@@ -1,0 +1,19 @@
+body
+{
+	background: linear-gradient(to right, #cc2b5e, #753a88);
+}
+.cont
+{
+	text-align: center;
+	font-family: cursive;
+}
+h1
+{
+	font-size: 60px;
+	opacity: 0.4;
+}
+h2
+{
+	font-family: fantasy;
+	font-weight: lighter;
+}
